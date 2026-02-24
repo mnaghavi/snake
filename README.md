@@ -28,11 +28,3 @@ If Node is installed:
 ```bash
 node --test
 ```
-
-## Push to your GitHub repo
-1. Create an empty GitHub repo named `snake-ghost-challenge`.
-2. In this folder run:
-   ```bash
-   git remote add origin <YOUR_REPO_URL>
-   git push -u origin main
-   ```
